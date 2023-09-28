@@ -1,6 +1,6 @@
 [package]
 name = "gbretailapiclient"
-version = "0.0"
+version = "0.0.0"
 authors = ["ops@groupbyinc.com"]
 description = "GroupBy Retail API"
 license = "UNLICENSED"
